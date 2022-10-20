@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshal Patel</h1>
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Harshal Patel</h1>
 <h3 align="center">I'm a Passionate Full Stack Developer from India.</h3>
 
 
@@ -12,7 +12,7 @@
 
 - ⚡Reach me in Linkedin **https://www.linkedin.com/in/Harshpatil2414**
 
-- ⚡Reach me in Hacker Rank **https://www.hackerrank.com/Harshpatil2414**
+- ⚡Reach me in Hacker Rank **https://www.hackerrank.com/Harshpatel2414**
 
 - 📫 How to reach me **harshalpateljnv@gmail.com**
 
